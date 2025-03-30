@@ -1,0 +1,14 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+header, section, footer {
+    margin-bottom: 20px;
+}
+h1 {
+    color: #050df9;
+}
+a {
+    color: blue;
+}
